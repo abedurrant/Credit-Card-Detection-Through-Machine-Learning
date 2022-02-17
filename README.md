@@ -1,4 +1,4 @@
-## Background of problem
+## Background of Problem
 Credit card fraud costs consumers an estimated $22 billion per year. Due to the importance of this issue,
 credit card companies typically have teams of data scientists specifically tasked with identifying fraudulent
 transactions. The dataset CCFraud.csv contains information on about 300,000 credit card transactions of
@@ -9,7 +9,7 @@ scores of the explanatory variables. Your task is to try to identify which trans
 present it to the legal team at your company. In your report, please address the following questions:
 
 
-## Specific Questions to look at
+## Specific Questions
 1. How accurately can you identify the fraudulent transactions? In other words, given a transaction is
 fraudulent, how well do you identify it as such?
 
